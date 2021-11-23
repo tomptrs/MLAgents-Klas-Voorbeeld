@@ -1,0 +1,2 @@
+model_checkpoint_path: "Mover-90007.ckpt"
+all_model_checkpoint_paths: "Mover-90007.ckpt"
