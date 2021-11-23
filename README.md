@@ -25,6 +25,7 @@ Verder krijgt onze agent een afstraffing van -1 als hij van het platform valt. I
 
 # Unity omgeving aanmaken
 
+Open de scene : ml-demoSimpleExtended 1 .
 We maken een empty object dat we de naam environment geven. Daaronder maken we onze speelobjecten aan, namelijk onze Plane, Player (of agent), Enemy (of blokje), en nieuw plane dat als groene zone fungeert.
 
 ### Environment
