@@ -12,6 +12,8 @@ TagManager:
   - Exit
   - SmallPlane
   - goal
+  - Obstacle
+  - HiddenCollider
   layers:
   - Default
   - TransparentFX
